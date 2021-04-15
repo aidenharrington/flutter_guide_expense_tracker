@@ -1,5 +1,8 @@
 # flutter_complete_guide_expense_tracker
 
+This was made following the course: https://pro.academind.com/courses/767927
+I do not own this code and the purpose of this project is to demonstrate my learning.
+
 A new Flutter project.
 
 ## Getting Started
